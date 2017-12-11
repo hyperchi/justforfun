@@ -9,10 +9,8 @@
 * Admin have a lot of power over every users discussions and opinions :-p
 
 ### Home View
-![home view](./docs/design_assets/home_view.jpg)
 
 ### Admin View
-![admin view](./docs/design_assets/admin_view.jpg)
 
 ## Deploy on you own server
 
