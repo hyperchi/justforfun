@@ -28,12 +28,12 @@ export const feedReducer = (state = initialState, action) => {
       return Object.assign({}, state, {
         fetchingDiscussions: true,
         error: null,
-      });;
+      });
 
     case STOP_FETCHING_DISCUSSIONS:
       return Object.assign({}, state, {
         fetchingDiscussions: false,
-      });;
+      });
 
     case FETCHING_DISCUSSIONS_SUCCESS:
       return Object.assign({}, state, {
@@ -52,12 +52,12 @@ export const feedReducer = (state = initialState, action) => {
       return Object.assign({}, state, {
         fetchingPinnedDiscussions: true,
         error: null,
-      });;
+      });
 
     case STOP_FETCHING_PINNED_DISCUSSIONS:
       return Object.assign({}, state, {
         fetchingPinnedDiscussions: false,
-      });;
+      });
 
     case FETCHING_PINNED_DISCUSSIONS_SUCCESS:
       return Object.assign({}, state, {

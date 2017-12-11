@@ -1,16 +1,16 @@
 {
-  "name": "reforum",
+  "name": "tikister",
   "version": "1.0.0",
   "description": "A forum application built with ReactJS, Redux, Express and MongoDB",
-  "author": "Provash Shoumma",
+  "author": "winston",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shoumma/ReForum/issues"
+    "url": "https://github.com/hyperchi/justforfun/issues"
   },
-  "homepage": "https://github.com/shoumma/ReForum#readme",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shoumma/ReForum.git"
+    "url": ""
   },
   "keywords": [
     "forum",
